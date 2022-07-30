@@ -1,3 +1,8 @@
+/*
+remove excess code
+modify the gameplay
+* */
+
 class Player(var name: String, var curScore : Int, var totalScore : Int, var curPlayer: Boolean)
 
 import scala.io.StdIn.readLine
